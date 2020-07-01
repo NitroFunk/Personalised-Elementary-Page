@@ -1,0 +1,132 @@
+.firstset
+{
+font-family: 'Valorant' , Arial, Helvetica, sans-serif;
+background-color:#ece7e1;
+text-align: center;
+margin: auto;
+width: 800px;
+}
+.firstimage{
+    max-width: 100%;
+    max-height: 100%;
+    display: block ; /* remove extra space below image */
+}
+ body { 
+    margin: 0px;
+    text-align: center;
+    background-color:#ece7e1;
+    color: #40514E
+    
+}
+.fh1
+{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 5.625em;
+}
+ .middle-container
+ {
+    font-family: 'Valorant' ,Helvetica , Arial, sans-serif;
+    margin: 100px 0 ;
+    
+ }
+ .bottom-container
+ {
+    font-family: 'Valorant' ,Helvetica , Arial, sans-serif;
+    background-color: #383e56;
+    padding: 30px 0 16px;
+    text-align: center;
+    
+ }
+ @font-face {
+    font-family: 'Valorant';
+    src: url("Valorant Font.ttf");
+ }
+ .val
+ {
+     font-family: 'Valorant' ,Helvetica , Arial, sans-serif;
+     color: white;
+    margin: 10px 18px; 
+    text-decoration: none;
+ }
+ p 
+ {
+    line-height: 2; 
+ }
+ .val:hover
+ {
+     color: rosybrown;
+ }
+ .nib
+ {
+    color: white; 
+    font-size: .75em;
+    padding: 20px 0;
+ }
+ .skill-row
+ {
+     width: 50%;
+     margin : 100px auto 100px auto ;
+     text-align: left;
+     line-height: 2; 
+     
+ }
+ 
+ .imgS
+ {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+    
+ }
+ .imgS1
+ {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+ }
+ h2
+ {
+     padding: 10px;
+ }
+ .Intro
+ {
+  width: 30%;
+  margin: auto;
+  padding-bottom: 15px;
+ }
+ hr
+ {
+  border: dotted #323232 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+ }
+ .btn 
+ {
+    background: #e5edb7;
+    background-image: -webkit-linear-gradient(top, #e5edb7, #faf0af);
+    background-image: -moz-linear-gradient(top, #e5edb7, #faf0af);
+    background-image: -ms-linear-gradient(top, #e5edb7, #faf0af);
+    background-image: -o-linear-gradient(top, #e5edb7, #faf0af);
+    background-image: linear-gradient(to bottom, #e5edb7, #faf0af);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: 'Valorant' ,Helvetica , Arial, sans-serif;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #bc8f8f, #bc8f8f);
+    background-image: -moz-linear-gradient(top, #bc8f8f, #bc8f8f);
+    background-image: -ms-linear-gradient(top, #bc8f8f, #bc8f8f);
+    background-image: -o-linear-gradient(top, #bc8f8f, #bc8f8f);
+    background-image: linear-gradient(to bottom, #bc8f8f, #bc8f8f);
+    text-decoration: none;
+  }
